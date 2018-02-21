@@ -1,0 +1,18 @@
+{
+  "name": "Redux Form - Simple Example with React DND",
+  "version": "1.0.0",
+  "description": "A simple vanilla form written with redux-form.",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/oq746vmpy6",
+  "main": "index.js",
+  "dependencies": {
+    "redux-form-website-template": "0.0.41",
+    "redux-form": "7.0.4",
+    "redux": "3.6.0",
+    "react-redux": "5.0.6",
+    "react-dom": "15.6.1",
+    "react-dnd-html5-backend": "2.5.4",
+    "react-dnd": "2.5.4",
+    "react": "15.6.1"
+  }
+}
